@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/17776979/216778129-a523c141-2ae0-4c1f-
 
 ## Installation
 
-To install the `sfm-entry` extension, you will need to have the [sfm](https://github.com/dinhhuy258/sfm.nvim) and [telescope](https://github.com/nvim-telescope/telescope.nvim) plugins installed. You can then install the extension using your preferred plugin manager. For example, using [packer.nvim](https://github.com/wbthomason/packer.nvim):
+To install the `sfm-telescope` extension, you will need to have the [sfm](https://github.com/dinhhuy258/sfm.nvim) and [telescope](https://github.com/nvim-telescope/telescope.nvim) plugins installed. You can then install the extension using your preferred plugin manager. For example, using [packer.nvim](https://github.com/wbthomason/packer.nvim):
 
 ```lua
 {
