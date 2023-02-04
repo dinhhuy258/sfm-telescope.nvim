@@ -1,6 +1,6 @@
 # sfm-telescope
 
-The `sfm-telescope` extension is a plugin for the [sfm](https://github.com/dinhhuy258/sfm.nvim) plugin that allows users to search entries in the sfm explorer.
+The `sfm-telescope` extension is a plugin for the [sfm](https://github.com/dinhhuy258/sfm.nvim) plugin that allows users to search for entries in the sfm explorer.
 
 ## Demonstration
 
@@ -23,6 +23,12 @@ To install the `sfm-entry` extension, you will need to have the [sfm](https://gi
     sfm_explorer:load_extension "sfm-telescope"
   end
 }
+```
+
+You must also enable the telescope extension with the following code:
+
+```lua
+require('telescope').load_extension('sfm-telescope')
 ```
 
 ## Configuration
