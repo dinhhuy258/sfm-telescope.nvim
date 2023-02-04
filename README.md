@@ -2,6 +2,12 @@
 
 The `sfm-telescope` extension is a plugin for the [sfm](https://github.com/dinhhuy258/sfm.nvim) plugin that allows users to search entries in the sfm explorer.
 
+## Demonstration
+
+Here is a short demonstration of the `sfm-telescope` extension in action:
+
+https://user-images.githubusercontent.com/17776979/216778129-a523c141-2ae0-4c1f-b26d-43d2aa65bfcd.mp4
+
 ## Installation
 
 To install the `sfm-entry` extension, you will need to have the [sfm](https://github.com/dinhhuy258/sfm.nvim) and [telescope](https://github.com/nvim-telescope/telescope.nvim) plugins installed. You can then install the extension using your preferred plugin manager. For example, using [packer.nvim](https://github.com/wbthomason/packer.nvim):
